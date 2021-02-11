@@ -1,25 +1,6 @@
 # <div align="center">Guestly</div>
 
 <p align="center">
-    <br>
-    <a href="https://github.com/Harzulu">
-        <img src="https://avatars3.githubusercontent.com/u/55816973?s=460&u=46b7375105009121ce5ce53643553fef0ba2be14&v=4" width="150px" height="auto">
-    </a>
-    <a href="https://github.com/MaxBrockbank">
-        <img src="https://avatars.githubusercontent.com/u/48340492?s=460&u=e571605c1709842339fc6510ae69ec0344bb4477&v=4" width="150px" height="auto">
-    </a>
-    <a href="https://github.com/taylulz">
-        <img src="https://avatars.githubusercontent.com/u/61722743?s=460&u=b68a72f8aea84f3239a7efa745ee117631511fa0&v=4" width="150px" height="auto">
-    </a>
-    <a href="https://github.com/Zahnen">
-        <img src="https://avatars.githubusercontent.com/u/30666043?s=460&v=4" width="150px" height="auto">
-    </a>
-    <a href="https://github.com/kaila-spraguemcrae">
-        <img src="https://avatars.githubusercontent.com/u/68969136?s=400&u=9656844bce97d3dc960e4012bcacc5458645885e&v=4" width="150px" height="auto">
-    </a>
-</p>
-
-<p align="center">
   <small>Last Updated: January 28th, 2021</small>
 </p>
 
